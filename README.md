@@ -7,8 +7,7 @@ The focus is on real‑world data challenges, including inconsistent date format
 ---
 
 ## About Me
-I am a Junior Data Analyst with a strong focus on Power BI, DAX, and business-oriented analytics.  
-My work emphasizes clean data preparation, optimized data modeling, KPI development, and transforming raw data into actionable insights that support decision-making.
+I am a Data Analyst with a strong focus on SQL and Power BI, specializing in business‑oriented analytics and decision support. My work emphasizes clean data preparation, robust data modeling, and KPI development, transforming raw and often inconsistent data into clear, actionable insights. I enjoy working end‑to‑end — from data cleaning and analytical SQL logic to well‑structured Power BI dashboards designed for management and business users.
 
 ---
 
